@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrfanasina
-- 👀 I’m interested in Web Developpemnt
+- 👀 I’m interested in Mobile & Web Developpemnt
 - 🌱 I’m currently learning React Js and Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
